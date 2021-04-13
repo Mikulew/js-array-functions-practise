@@ -3,7 +3,7 @@
 Want to learn how to use JavaScript array functions like map, reduce, filter, etc? Use this worksheet and the corresponding videos to figure out how!
 
 ## Resource
-Video: https://www.youtube.com/watch?v=3LOEGS4qcRM&list=PLDlWc9AfQBfZGZXFb_1tcRKwtCavR7AfT
+Video: https://www.youtube.com/watch?v=3LOEGS4qcRM&list=PLDlWc9AfQBfZGZXFb_1tcRKwtCavR7AfT \
 Repository: https://github.com/jamesqquick/javascript-array-functions-practice
 
 ## Sample Data
